@@ -1,0 +1,1 @@
+logcatPkg.py com.secoo
